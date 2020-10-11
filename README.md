@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 ### Bonjour! Si vous êtes ici, c'est que vous avez vu mon CV, mon profil Linkedin ou tout simplement c'est le hasard grâce à Google :) 👋
 ## Je suis un joueur de squash, un technophile, un coach / formateur et surtout j'évite de gaspiller!!
 
@@ -47,4 +46,3 @@
 
 [website]: En cours de construction
 [linkedin]: https://www.linkedin.com/in/william-tran-陈基文-97a64b69
--->
