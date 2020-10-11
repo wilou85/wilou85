@@ -5,14 +5,14 @@
 - 🥅 Mes objectifs 2020: terminer mon porte-feuille projet et tester un nouveau produit "en test & learn" (surprise...)
 
 
-### Pour me contacter:
+### 📺Pour me contacter:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 
 
-### Outils et langages de programmation utilisés:
+### 🔭Outils et langages de programmation utilisés:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -30,14 +30,10 @@
 
 
 
-### 📕 Mes dernières avancées
+###  ⚡ Mes dernières avancées
 
 <!-- Github -->
-1. 💪 Finalisation d'un panier E-commerce et d'une fiche produit :). Ce sont 2 [pages dynamiques et sur internet](https://fullstack-shop-cart.herokuapp.com/)
+1. 💪 Finalisation d'un panier E-commerce et d'une fiche produit :). Ce sont 2 [Pages dynamiques et sur internet](https://fullstack-shop-cart.herokuapp.com/)
 2. 🎉 Utlisation de la librairie ChartJS pour visualiser les données [Code source](https://github.com/wilou85/chartJS)
 3. 💪 Développement en cours d'un chatbot utilisation l'UI de what's app [code source - développement en cours](https://github.com/wilou85/whatsapp-MERN)
 <!-- BLOG-POST-LIST:END -->
-
-
-
-
