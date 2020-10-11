@@ -7,7 +7,7 @@
 
 ### 📺Pour me contacter:
 
-[<img align="left" alt="Wilou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
@@ -36,3 +36,8 @@
 2. 🎉 Utlisation de la librairie ChartJS pour visualiser les données [Code source](https://github.com/wilou85/chartJS)
 3. 💪 Développement en cours d'un chatbot utilisation l'UI de what's app [code source - développement en cours](https://github.com/wilou85/whatsapp-MERN)
 <!-- BLOG-POST-LIST:END -->
+
+
+[linkedin]: www.linkedin.com/in/william-tran-陈基文-97a64b69
+
+
