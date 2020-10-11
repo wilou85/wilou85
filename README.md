@@ -8,7 +8,7 @@
 ### Pour me contacter:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 
 
@@ -37,5 +37,3 @@
 2. 🎉 Utlisation de la librairie ChartJS pour visualiser les données [Code source](https://github.com/wilou85/chartJS)
 3. 💪 Développement en cours d'un chatbot utilisation l'UI de what's app [code source - développement en cours](https://github.com/wilou85/whatsapp-MERN)
 <!-- BLOG-POST-LIST:END -->
-
-
