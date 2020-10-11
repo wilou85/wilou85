@@ -1,5 +1,5 @@
 ### Bonjour! Si vous êtes ici, c'est que vous avez vu mon CV, mon profil Linkedin ou tout simplement c'est le hasard grâce à Google :) 👋
-## Je suis un joueur de squash, un technophile, un coach / formateur et surtout j'évite de gaspiller!!
+### Je suis un joueur de squash, un technophile, un coach / formateur et surtout j'évite de gaspiller!!
 
 - 🌱 Je suis en train de beaucoup apprendre 🤣 en développement web et en data science. Pourquoi? Par curiosité et pour me challenger!
 - 🥅 Mes objectifs 2020: terminer mon porte-feuille projet et tester un nouveau produit "en test & learn" (surprise...)
@@ -37,3 +37,7 @@
 2. 🎉 Utlisation de la librairie ChartJS pour visualiser les données [Code source](https://github.com/wilou85/chartJS)
 3. 💪 Développement en cours d'un chatbot utilisation l'UI de what's app [code source - développement en cours](https://github.com/wilou85/whatsapp-MERN)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+
