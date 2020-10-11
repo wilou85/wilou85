@@ -1,4 +1,4 @@
-### Bonjour! Si vous êtes ici, c'est que vous avez vu mon CV, mon profil Linkedin ou tout simplement c'est le hasard grâce à Google :) 👋
+### Bonjour! Si vous êtes ici, c'est que vous avez vu mon CV, mon profil Linkedin ou tout simplement c'est grâce à Google :) 👋
 ### Je suis un joueur de squash, un technophile, un coach / formateur et surtout j'évite de gaspiller!!
 
 - 🌱 Je suis en train de beaucoup apprendre 🤣 en développement web et en data science. Pourquoi? Par curiosité et pour me challenger!
