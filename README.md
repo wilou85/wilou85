@@ -33,7 +33,7 @@
 ###  ⚡ Mes dernières avancées
 
 <!-- Github -->
-1. 💪 Finalisation d'un panier E-commerce et d'une fiche produit :). Ce sont 2 [Pages dynamiques et sur internet](https://fullstack-shop-cart.herokuapp.com/)
+1. 💪 Finalisation d'un panier E-commerce et d'une fiche produit :). Ce sont 2 [Pages dynamiques et en production](https://fullstack-shop-cart.herokuapp.com/)
 2. 🎉 Utlisation de la librairie ChartJS pour visualiser les données [Code source](https://github.com/wilou85/chartJS)
 3. 💪 Développement en cours d'un chatbot utilisation l'UI de what's app [code source - développement en cours](https://github.com/wilou85/whatsapp-MERN)
 <!-- BLOG-POST-LIST:END -->
